@@ -2,16 +2,19 @@ Hi, my name is
 ## Irham.
 ## I am Student of Multimedia University.
 
-I'm currently ✨ working on ✨:
-
-📑My assignments which consist of : Developing game, application & website
-
-🧑‍🏭My personal website 
-
--
-
 📕I’m currently learning Information System
 
+🧑‍🏭I'm currently ✨ working on ✨:
+
+📑Assignments which consist of : Developing game, application & website
+
+💻Personal website 
+
+⚒️Here are a few technologies I’ve been working with recently:
+- HTML
+- CSS
+- JavaScript(ES6+)
+- Java
 
 <!--
 **kyiwsr/kyiwsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
