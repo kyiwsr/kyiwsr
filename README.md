@@ -12,6 +12,7 @@ Hi, my name is
 - HTML
 - CSS
 - JavaScript(ES6+)
+- C++
 - Java
 
 <!--
