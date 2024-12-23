@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi, my name is
+## Irham.
+## I am Student of Multimedia University.
 
 <!--
 **kyiwsr/kyiwsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
