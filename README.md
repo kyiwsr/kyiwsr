@@ -5,10 +5,8 @@ Hi, my name is
 📕I’m currently learning Information System
 
 🧑‍🏭I'm currently ✨ working on ✨:
-
-📑Assignments which consist of : Developing game, application & website
-
-💻Personal website 
+- 📑Assignments which consist of : Developing game, application & website
+- 💻Personal website 
 
 ⚒️Here are a few technologies I’ve been working with recently:
 - HTML
