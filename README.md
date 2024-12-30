@@ -1,8 +1,7 @@
 Hi, my name is
-## Irham.
-## I am Student of Multimedia University.
+## Irham
 
-📕I’m currently learning Information System
+📕I’m currently learning in Information System
 
 🧑‍🏭I'm currently ✨ working on ✨:
 - 📑Assignments which consist of : Developing game, Applications & Website
