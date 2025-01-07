@@ -1,4 +1,4 @@
-Hi, my name is
+<!-- Hi, my name is
 ## Irham
 
 📕I’m currently learning in Information System
@@ -14,7 +14,7 @@ Hi, my name is
 - C++
 - Java
 
-<!--
+
 **kyiwsr/kyiwsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm Irham. 
